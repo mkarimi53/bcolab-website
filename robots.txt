@@ -1,1 +1,1 @@
-Sitemap: https://mkarimi53.github.io/bcolab-website/sitemap.xml
+Sitemap: http://bcolab.ir/sitemap.xml
